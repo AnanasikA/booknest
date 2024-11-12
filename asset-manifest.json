@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/booknest/static/css/main.520135f9.css",
-    "main.js": "/booknest/static/js/main.937b9218.js",
+    "main.css": "/booknest/static/css/main.2d936e93.css",
+    "main.js": "/booknest/static/js/main.87f4b90e.js",
     "static/js/453.e1431783.chunk.js": "/booknest/static/js/453.e1431783.chunk.js",
     "static/media/papier-texture.avif": "/booknest/static/media/papier-texture.c91b529a574ec8a29c78.avif",
     "static/media/books.png": "/booknest/static/media/books.44d1cd2c48ab2c921112.png",
     "static/media/star.png": "/booknest/static/media/star.6f09a733e42c479fe607.png",
     "static/media/rocket.png": "/booknest/static/media/rocket.6c536cd784f91cfde919.png",
     "index.html": "/booknest/index.html",
-    "main.520135f9.css.map": "/booknest/static/css/main.520135f9.css.map",
-    "main.937b9218.js.map": "/booknest/static/js/main.937b9218.js.map",
+    "main.2d936e93.css.map": "/booknest/static/css/main.2d936e93.css.map",
+    "main.87f4b90e.js.map": "/booknest/static/js/main.87f4b90e.js.map",
     "453.e1431783.chunk.js.map": "/booknest/static/js/453.e1431783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.520135f9.css",
-    "static/js/main.937b9218.js"
+    "static/css/main.2d936e93.css",
+    "static/js/main.87f4b90e.js"
   ]
 }
