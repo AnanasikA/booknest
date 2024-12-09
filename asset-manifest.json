@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/booknest/static/css/main.4ec9f9de.css",
-    "main.js": "/booknest/static/js/main.581e9e1e.js",
+    "main.css": "/booknest/static/css/main.9700950d.css",
+    "main.js": "/booknest/static/js/main.82c8caa7.js",
     "static/js/453.e1431783.chunk.js": "/booknest/static/js/453.e1431783.chunk.js",
     "static/media/books.jpg": "/booknest/static/media/books.86d3b11a6f2d7658da5e.jpg",
     "static/media/cien-wiatru.webp": "/booknest/static/media/cien-wiatru.1137ffd2c8d962f80f9b.webp",
@@ -15,12 +15,12 @@
     "static/media/kod-leonarda-da-vinci.webp": "/booknest/static/media/kod-leonarda-da-vinci.4f24d76d20339b9d3bec.webp",
     "static/media/magnifying-glass.png": "/booknest/static/media/magnifying-glass.c905e98ff0993e0b28fd.png",
     "index.html": "/booknest/index.html",
-    "main.4ec9f9de.css.map": "/booknest/static/css/main.4ec9f9de.css.map",
-    "main.581e9e1e.js.map": "/booknest/static/js/main.581e9e1e.js.map",
+    "main.9700950d.css.map": "/booknest/static/css/main.9700950d.css.map",
+    "main.82c8caa7.js.map": "/booknest/static/js/main.82c8caa7.js.map",
     "453.e1431783.chunk.js.map": "/booknest/static/js/453.e1431783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ec9f9de.css",
-    "static/js/main.581e9e1e.js"
+    "static/css/main.9700950d.css",
+    "static/js/main.82c8caa7.js"
   ]
 }
